@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a32b6c6a-0a96-4a4e-9308-f2975a055a26" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../AI_Course_check/.idea/AI_Course_check.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-1-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-1-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-1-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-1-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-10-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-10-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-10-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-2-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-2-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-2-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-3-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-3-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-3-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-3-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-4-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-4-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-4-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-5-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-5-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-5-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-6-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-6-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-6-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-7-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-7-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-7-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-8-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-8-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-8-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-9-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-9-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map-9-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-1/map.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-1-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-1-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-1-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-1-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-1-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-1-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-1-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-1-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-1-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-10-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-10-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-10-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-10-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-10-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-10-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-10-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-10-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-10-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-2-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-2-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-2-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-2-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-2-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-2-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-2-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-2-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-2-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-3-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-3-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-3-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-3-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-3-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-3-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-3-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-3-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-3-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-4-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-4-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-4-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-4-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-4-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-4-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-4-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-4-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-4-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-5-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-5-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-5-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-5-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-5-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-5-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-5-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-5-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-5-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-6-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-6-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-6-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-6-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-6-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-6-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-6-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-6-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-6-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-7-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-7-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-7-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-7-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-7-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-7-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-7-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-7-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-7-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-8-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-8-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-8-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-8-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-8-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-8-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-8-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-8-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-8-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-9-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-9-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-9-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-9-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-9-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-9-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-9-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-9-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map-9-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/building-2/map.results" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/data_science.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-1-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-1-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-1-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-1-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-1-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-10-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-10-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-2-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-2-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-2-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-3-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-3-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-3-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-3-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-4-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-4-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-4-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-5-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-5-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-5-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-6-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-6-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-6-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-7-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-7-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-7-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-8-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-8-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-8-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-9-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-9-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-9-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-1-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-1-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-1-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-1-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-1-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-1-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-1-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-1-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-1-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-10-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-10-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-10-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-10-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-10-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-10-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-10-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-10-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-10-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-2-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-2-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-2-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-2-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-2-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-2-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-2-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-2-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-2-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-3-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-3-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-3-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-3-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-3-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-3-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-3-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-3-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-3-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-4-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-4-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-4-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-4-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-4-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-4-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-4-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-4-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-4-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-5-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-5-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-5-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-5-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-5-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-5-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-5-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-5-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-5-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-6-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-6-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-6-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-6-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-6-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-6-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-6-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-6-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-6-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-7-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-7-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-7-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-7-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-7-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-7-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-7-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-7-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-7-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-8-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-8-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-8-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-8-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-8-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-8-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-8-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-8-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-8-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-9-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-9-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-9-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-9-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-9-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-9-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-9-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-9-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map-9-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-2/map.results" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-1-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-1-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-1-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-1-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-1-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-1-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-1-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-1-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-1-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-10-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-10-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-10-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-10-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-10-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-10-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-10-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-10-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-10-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-2-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-2-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-2-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-2-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-2-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-2-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-2-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-2-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-2-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-3-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-3-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-3-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-3-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-3-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-3-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-3-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-3-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-3-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-4-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-4-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-4-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-4-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-4-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-4-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-4-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-4-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-4-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-5-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-5-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-5-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-5-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-5-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-5-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-5-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-5-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-5-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-6-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-6-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-6-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-6-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-6-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-6-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-6-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-6-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-6-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-7-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-7-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-7-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-7-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-7-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-7-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-7-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-7-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-7-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-8-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-8-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-8-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-8-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-8-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-8-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-8-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-8-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-8-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-9-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-9-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-9-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-9-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-9-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-9-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-9-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-9-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map-9-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-1/map.results" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-1-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-1-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-1-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-1-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-1-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-1-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-1-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-1-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-10-ATB." afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-10-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-10-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-10-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-10-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-10-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-10-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-10-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-10-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-10-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-2-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-2-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-2-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-2-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-2-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-2-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-2-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-2-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-2-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-3-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-3-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-3-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-3-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-3-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-3-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-3-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-3-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-3-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-4-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-4-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-4-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-4-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-4-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-4-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-4-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-4-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-4-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-5-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-5-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-5-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-5-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-5-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-5-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-5-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-5-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-5-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-6-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-6-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-6-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-6-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-6-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-6-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-6-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-6-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-6-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-7-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-7-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-7-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-7-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-7-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-7-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-7-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-7-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-7-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-8-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-8-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-8-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-8-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-8-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-8-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-8-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-8-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-8-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-9-ATB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-9-ATB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-9-ATB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-9-DCB.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-9-DCB.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-9-DCB.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-9-RAN.can" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-9-RAN.dif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-9-RAN.piv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map.results" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DRL3/.idea/DRL3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DRL_practice/.idea/DRL_practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DRL_practice/IMPORTS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DRL_practice2/.idea/DRL_practice2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DRL_practice2/DRAFTS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/00-01.piv" beforeDir="false" afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/land-1/map-10-RAN.piv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/00-02.piv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/00.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/sea-2/map-1-RAN.piv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/03-01.piv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/03.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/CONSTANTS.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/CONSTANTS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/Cell.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/Cell.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/DRAFTS.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/DRAFTS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/Heuristic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/Heuristic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/main_help_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/main_help_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/pure_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Search_Course_Project_True_Distance_Heuristics/pure_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pygame2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pygame2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegram_app_pytorch" beforeDir="false" afterPath="$PROJECT_DIR$/../telegram_app_pytorch" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RI9X683p2isRGtA2gjhCuk8qHC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Simulation">
+    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="matplotlib_animation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Learning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="matplotlib_animation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Simulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="matplotlib_animation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="matplotlib_animation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.try4" />
+      <item itemvalue="Python.Simulation" />
+      <item itemvalue="Python.Functions" />
+      <item itemvalue="Python.Learning" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Simulation" />
+        <item itemvalue="Python.Learning" />
+        <item itemvalue="Python.try4" />
+        <item itemvalue="Python.Functions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a32b6c6a-0a96-4a4e-9308-f2975a055a26" name="Default" comment="" />
+      <created>1544521968753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544521968753</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
